@@ -98,6 +98,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="gst-Ca-dQg">
+                        <barButtonItem key="leftBarButtonItem" title="New F1" id="lea-Z8-5oT"/>
                         <barButtonItem key="rightBarButtonItem" image="arrow.clockwise.circle.fill" catalog="system" id="VOP-Er-PlZ">
                             <connections>
                                 <action selector="btnRefreshTapped:" destination="BYZ-38-t0r" id="xXc-ZR-0fi"/>
